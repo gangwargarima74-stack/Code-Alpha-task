@@ -3,13 +3,16 @@ The IoT-Based Smart Agriculture System is a smart farming solution designed to m
 The system uses sensors to collect real-time information such as soil moisture and environmental conditions. Based on the collected data, the irrigation system can automatically turn the water supply ON or OFF. This helps reduce unnecessary water consumption and improves irrigation efficiency.
 
 🎯 Objectives
+
 Monitor soil and environmental conditions in real time.
 Automatically control the irrigation system.
 Reduce unnecessary water usage.
 Improve irrigation efficiency.
 Support smart and sustainable farming.
 Reduce manual effort required for irrigation.
+
 ⚙️ Key Features
+
 🌱 Real-time soil condition monitoring
 💧 Automatic irrigation control
 📊 Sensor-based monitoring
@@ -23,6 +26,7 @@ Microcontroller
 Automatic Irrigation System
 Electronic Components
 Arduino / Embedded System (if used in the project)
+
 🔄 Working Principle
 The system works in the following sequence:
 
@@ -32,6 +36,7 @@ The soil moisture level is compared with the required threshold.
 If the soil moisture is below the required level, the irrigation system is activated.
 When sufficient moisture is detected, the irrigation system is turned OFF.
 This process helps maintain appropriate soil moisture while minimizing water wastage.
+
 🧩 System Components
 The major components of the system include:
 
@@ -42,12 +47,14 @@ Relay Module
 Power Supply
 Connecting Wires
 Other required sensors and electronic components
+
 📁 Project Files
 This repository contains the following project files:
 
 Smart Farming Circuit.pdsprj – Circuit simulation/project file.
 Code Alpha Case Study.pdf – Project case study.
 Code Alpha Project Report.pdf – Detailed project report.
+
 💡 Applications
 This system can be used in:
 
@@ -57,6 +64,7 @@ Greenhouses
 Home gardens
 Automated irrigation systems
 Water-efficient farming
+
 🚀 Future Scope
 The project can be further improved by integrating:
 
@@ -67,6 +75,7 @@ Weather forecasting
 AI/ML-based irrigation prediction
 Multiple crop monitoring
 Remote control of irrigation systems
+
 ✅ Benefits
 Saves water
 Reduces manual effort
@@ -74,6 +83,7 @@ Provides automated irrigation
 Improves water management
 Supports smart farming
 Can be expanded for large-scale agricultural applications
+
 👨‍💻 Project
 Project Type: IoT-Based Smart Agriculture System Domain: Internet of Things (IoT) & Smart Agriculture Purpose: Automated irrigation and efficient water management
 
